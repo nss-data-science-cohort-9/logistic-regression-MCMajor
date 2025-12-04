@@ -28,8 +28,9 @@ Does revenue look associated with nominations?
     * $300M drama  
 12. Which variable has the larger effect: being a drama or revenue?
 
-**Part 4: Stretch Questions**
-13. How do the empirical and estimated probabilities look for the revenue-only model? What about the model that uses both revenue and the drama genre?  
-14. Revenue is highly skewed, which means that log revenue might make for a better model fit. Try fitting a model using log revenue. Then compare these models. You can look at [Akaike Information Criterion](https://en.wikipedia.org/wiki/Akaike_information_criterion) or the (log-likelihood)[https://en.wikipedia.org/wiki/Likelihood_function]. You might also look at a [calibration curve](https://encord.com/glossary/calibration-curve/).
-15. Add other genres to your model. Which genres have the largest effect on the estimated probability of being nominated?
+**Part 4: Stretch Questions**  
+
+13. How do the empirical and estimated probabilities look for the revenue-only model? What about the model that uses both revenue and the drama genre?    
+14. Revenue is highly skewed, which means that log revenue might make for a better model fit. Try fitting a model using log revenue. Then compare these models. You can look at [Akaike Information Criterion](https://en.wikipedia.org/wiki/Akaike_information_criterion) or the (log-likelihood)[https://en.wikipedia.org/wiki/Likelihood_function]. You might also look at a [calibration curve](https://encord.com/glossary/calibration-curve/).  
+15. Add other genres to your model. Which genres have the largest effect on the estimated probability of being nominated?  
 16. Instead of revenue, use profit. How does this change the model?
